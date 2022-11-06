@@ -13,8 +13,7 @@ import javax.swing.JMenuBar;
 import java.awt.event.ActionListener;
 import javax.swing.JFrame;
 
-public class juegograph extends JFrame implements ActionListener
-{
+public class juegograph extends JFrame implements ActionListener{
     private static final long serialVersionUID = 1L;
     private PanelTabla pt;
     private controla cv;
